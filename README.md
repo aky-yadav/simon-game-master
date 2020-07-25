@@ -1,1 +1,1 @@
-# simon-game-master
+# simons-game
